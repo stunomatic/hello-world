@@ -12,13 +12,11 @@
 <p> this line we create for emergency fix</p>
 
 <div><img src="images/a.jpg" /></div>
-<<<<<<< HEAD
 
-=======
 <div><img src="images/a.jpg" /></div>
->>>>>>> hello-world-images
-=======
+
+
 <div><img src="images/a.jpg" /></div>
->>>>>>> hello-world-images
+
 </body>
 </html> 
